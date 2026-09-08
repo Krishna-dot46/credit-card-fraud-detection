@@ -1,0 +1,5 @@
+creditcard_2023.csv
+__pycache__/
+*.pyc
+venv/
+.venv/
